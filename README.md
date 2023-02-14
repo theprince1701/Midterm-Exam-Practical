@@ -40,3 +40,12 @@ calculate distance from camera pos to world pos (vector4)
 subtract radius value set through C#
 Clamp between 0, 0.5
 Apply output to the alpha
+
+In C#, update the vector4 with the xyz being the position of the forcefield, and w being the radius (how much should this fade out based on distance) every frame
+
+
+Background Color:
+
+I decided to do a simpler approach for the background color, simply creating a texture that applies a color to a texture. Once this is done, we can simply set the color based on the value decided in C# on th CPU.
+
+
