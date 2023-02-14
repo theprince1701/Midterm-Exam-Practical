@@ -1,18 +1,18 @@
 # Midterm Exam Practical
 
 
-#Controls
+# Controls
 
 1 - Enable/Disable LightSource Rotation
 2 - Toggle ground color between grass and desert
 3 - Enable/Disable forcefield
 
-#Sources
+# Sources
 
 https://www.deviantart.com/thegreengiddly/art/Alien-Force-Field-Texture-146051944 (alien forcefield texture)
 
 
-#Explanations
+# Explanations
 
 
 Forcefield:
